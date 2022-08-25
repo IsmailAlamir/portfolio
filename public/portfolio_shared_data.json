@@ -1,16 +1,31 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Ismail Al Amir",
       "titles": [ "Software Developer" ],
       "social": [
         {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/isalamir/",
+          "class": "fab fa-linkedin"
+        },
+        {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/IsmailAlamir",
           "class": "fab fa-github"
         },
         {
+          "name": "behance",
+          "url": "https://www.behance.net/1sml_",
+          "class": "fab fa-behance"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/ismaeelalamir/",
+          "class": "fab fa-facebook"
+        },
+        {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/1sml_/",
           "class": "fab fa-instagram"
         }
       ],
@@ -29,14 +44,9 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
         },
         {
           "name": "JavaScript",
@@ -44,25 +54,21 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "name": "Illustrator",
+          "class": "devicon-illustrator-plain",
+          "level": "85"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "Photoshop",
+          "class": "devicon-photoshop-plain",
+          "level": "85"
         }
+       
       ]
     }
   }
